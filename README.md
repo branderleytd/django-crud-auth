@@ -5,7 +5,6 @@ ___
 - [WhiteNoise](https://whitenoise.readthedocs.io/en/latest/index.html)
 
 ## Despligue
-___
 
 ### Producción
 Se desplegó en render.com
